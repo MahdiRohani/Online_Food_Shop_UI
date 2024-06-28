@@ -16,7 +16,7 @@ This project is an Android application that provides a user interface for an onl
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/online-food-shop-ui.git
+   git clone https://github.com/MahdiRohani/online-food-shop-ui.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
